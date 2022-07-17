@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://akashdwivedi7828.github.io/csb-20lv7y/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://akashdwivedi7828.github.io/csb-20lv7y/static/js/main.24655538.chunk.js",
+    "main.js.map": "https://akashdwivedi7828.github.io/csb-20lv7y/static/js/main.24655538.chunk.js.map",
+    "runtime-main.js": "https://akashdwivedi7828.github.io/csb-20lv7y/static/js/runtime-main.9c6ad62f.js",
+    "runtime-main.js.map": "https://akashdwivedi7828.github.io/csb-20lv7y/static/js/runtime-main.9c6ad62f.js.map",
+    "static/js/2.b0bd69f9.chunk.js": "https://akashdwivedi7828.github.io/csb-20lv7y/static/js/2.b0bd69f9.chunk.js",
+    "static/js/2.b0bd69f9.chunk.js.map": "https://akashdwivedi7828.github.io/csb-20lv7y/static/js/2.b0bd69f9.chunk.js.map",
+    "index.html": "https://akashdwivedi7828.github.io/csb-20lv7y/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://akashdwivedi7828.github.io/csb-20lv7y/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b0bd69f9.chunk.js.LICENSE.txt": "https://akashdwivedi7828.github.io/csb-20lv7y/static/js/2.b0bd69f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c6ad62f.js",
+    "static/js/2.b0bd69f9.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.24655538.chunk.js"
+  ]
+}
